@@ -1,0 +1,5 @@
+﻿  КРИПТА_ЛАБ1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+D:\A_МГТУ\МГТУ\9 семестр\Методы криптографии\КРИПТА_ЛАБ1\КРИПТА_ЛАБ1\КРИПТА_ЛАБ1.cpp(27,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\A_МГТУ\МГТУ\9 семестр\Методы криптографии\КРИПТА_ЛАБ1\КРИПТА_ЛАБ1\КРИПТА_ЛАБ1.cpp(31,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  КРИПТА_ЛАБ1.vcxproj -> D:\A_МГТУ\МГТУ\9 семестр\Методы криптографии\КРИПТА_ЛАБ1\x64\Debug\КРИПТА_ЛАБ1.exe
